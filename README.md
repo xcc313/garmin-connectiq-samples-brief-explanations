@@ -1,3 +1,6 @@
+## design you watch
+[online design](https://garmin.watchfacebuilder.com/watchface-download/?guid=620013546a090&t=1650835337)
+
 ## 佳明 Connect IQ 从入门到放弃
 
 佳明开发示例代码、关键技能记录分享, 顺便聊点劝你入行和劝退的话题。欢迎 star&watch，给我续写动力（写这些文章纯粹是用爱发电）。
